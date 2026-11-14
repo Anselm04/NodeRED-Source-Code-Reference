@@ -1,0 +1,20 @@
+{
+  "source": "https://github.com/node-red/node-red.git",
+  "commit": "e4f7fc516cd8da1b4b4d571169cf6937b500bb30",
+  "number_of_original_workflow_files": 2,
+  "original_ci_is_disabled": true,
+  "files": [
+    {
+      "upstream_path": ".github/workflows/release.yml",
+      "reference_path": "upstream-workflow-snapshots/nodered/.github/workflows/release.yml",
+      "git_blob": "84140e311346d6b2421de7896ecd3b9719bffd91",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/tests.yml",
+      "reference_path": "upstream-workflow-snapshots/nodered/.github/workflows/tests.yml",
+      "git_blob": "6b1f65393a5a13355825a412f8f9b6fadd3718c3",
+      "original_mode": "100644"
+    }
+  ]
+}
