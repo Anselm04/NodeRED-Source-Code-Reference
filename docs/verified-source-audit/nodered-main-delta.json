@@ -1,0 +1,21 @@
+{
+  "upstream": "https://github.com/node-red/node-red.git",
+  "pinned_commit": "e4f7fc516cd8da1b4b4d571169cf6937b500bb30",
+  "destination_main_sha": "e9da09be987afb3261a09f5350ffd7572b839de0",
+  "upstream_tracked_entries": 1551,
+  "destination_tracked_entries": 1551,
+  "missing_paths": [
+    ".github/workflows/release.yml",
+    ".github/workflows/tests.yml"
+  ],
+  "missing_path_count": 2,
+  "missing_upstream_ci_count": 2,
+  "missing_other_count": 0,
+  "mismatched_objects": [],
+  "mismatched_count": 0,
+  "extra_paths": [
+    ".github/workflows/audit-source-once.yml",
+    "TRILLIONAI_REFERENCE.md"
+  ],
+  "extra_count": 2
+}
